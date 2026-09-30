@@ -1,6 +1,6 @@
 # 抖音自动化工作台安装说明
 
-当前发布版本：1.1.3。安装文件：`抖音自动化工作台 Setup 1.1.3.exe`。
+当前发布版本：1.1.3。下载文件：`dyAutoSuite-Setup-1.1.3.exe`（安装器原始文件名为“抖音自动化工作台 Setup 1.1.3.exe”，文件内容相同）。
 
 1. 在 [Releases](../../releases) 中下载对应版本的 EXE 和 `SHA256SUMS.txt`。
 2. 在 Windows PowerShell 中运行 `Get-FileHash -Algorithm SHA256 -LiteralPath '下载文件的完整路径'`，与校验文件中的值比较。
